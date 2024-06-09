@@ -1,0 +1,27 @@
+* {
+    color: white;
+}
+
+th {
+    color: black;
+}
+
+body {
+    background: rgb(3, 3, 37);
+}
+
+h1 {
+    color: red;
+}
+
+.menu{
+    text-decoration: none;
+}
+
+.tulisan{
+    font-size: 20px;
+}
+
+#text-birumuda{
+    color: #4293f5;
+}
